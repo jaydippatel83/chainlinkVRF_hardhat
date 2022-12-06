@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "@chainlink/contracts": "^0.5.1",
+    "@graphprotocol/graph-cli": "^0.37.0",
     "@openzeppelin/contracts": "^4.8.0",
     "dotenv": "^16.0.3"
   }
